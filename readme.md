@@ -1,10 +1,13 @@
-# MACROSS.ASM - Structured Programming Macros for TASM/MASM
+# MACROSS.ASM
+# Structured Programming Macros for x86 Assembly Code
 
 ## Overview
 
-MACROSS.ASM provides structured programming constructs for x86 assembly language, originally developed by Graeme Devine in 1980s while writing Ballblazer for the ZX Spectrum. Basically
-Dave Levine sat with me and told me this was an important concept to get into the assembler
-before I could even start on the game port. Turns out he was right!
+MACROSS.ASM provides structured programming constructs for x86 assembly language, originally developed by me in 1980s while writing Ballblazer for the ZX Spectrum. Basically
+Dave Levine (the author of the original Ballblazer) sat with me and told me this was an
+important concept to get into the assembler before I could even start on the game port.
+
+Turns out he was right!
 
 ### History
 
